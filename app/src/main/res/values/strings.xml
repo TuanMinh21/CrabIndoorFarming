@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CrabIndoorFarming</string>
+    <string name="crab_indoor_farming">Crab Indoor Farming</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="did_you">Did you</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_name">User Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="thesis_crab_indoor_farming">Thesis-Crab indoor farming</string>
+    <string name="ph">pH</string>
+    <string name="temperature">Temperature</string>
+    <string name="sample_ph_value">10</string>
+    <string name="sample_temperature_value">°C</string>
+    <string name="bad_condition">bad condition</string>
+    <string name="good_condition">good condition</string>
+    <string name="auto">Auto</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="pumper_1">Pumper 1</string>
+    <string name="pumper_2">Pumper 2</string>
+    <string name="send_request_en">Send Request</string>
+</resources>
